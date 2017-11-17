@@ -10,3 +10,4 @@
 > m <- addMarkers(m, lng=174.768, lat=-36.852)
 > m #Print
 
+Link: http://rpubs.com/kafil/DDPa1 
